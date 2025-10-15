@@ -142,7 +142,7 @@ The analysis and visualization were created in **Tableau Desktop**, with data pr
 ---
 
 ### 🌐 Dashboard Preview
-![Credit Card Complaint Dashboard](Screenshot 2025-10-15 123537.png)
+![Credit Card Complaint Dashboard](dashboard.png)
 
 ---
 
